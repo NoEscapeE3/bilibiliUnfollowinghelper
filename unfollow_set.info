@@ -1,0 +1,20 @@
+{
+  "theme": "dark",
+  "lang": "zh",
+  "window_size": [
+    1200,
+    850
+  ],
+  "window_pos": [
+    100,
+    100
+  ],
+  "sessdata": "",
+  "bili_jct": "",
+  "max_pages": 5,
+  "delay": 1.5,
+  "splitter_sizes": [
+    376,
+    151
+  ]
+}
